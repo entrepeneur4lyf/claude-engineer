@@ -4,3 +4,6 @@ pygments
 tavily-python
 python-dotenv
 Pillow
+dateutil
+tenacity
+requests
